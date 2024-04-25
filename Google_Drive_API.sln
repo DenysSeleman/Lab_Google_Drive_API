@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Google_Drive_API", "Google_Drive_API\Google_Drive_API.pyproj", "{8103647A-A191-4D9A-B2F2-AC49DA0745D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8103647A-A191-4D9A-B2F2-AC49DA0745D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8103647A-A191-4D9A-B2F2-AC49DA0745D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBF1F4B-430F-405B-83AC-4149D754D784}
+	EndGlobalSection
+EndGlobal
